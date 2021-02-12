@@ -26,4 +26,4 @@ doc/
 # Vagrant artifacts
 ubuntu-*-console.log
 
-source/
+source/index.html.md
