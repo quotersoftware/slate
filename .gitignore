@@ -21,9 +21,11 @@ build/
 .yardoc
 _yardoc
 doc/
+vendor/
 .idea/
 
 # Vagrant artifacts
 ubuntu-*-console.log
 
+source/includes
 source/index.html.md.erb
